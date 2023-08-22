@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "ap-south-1",
+        "django_settings": "shared_backend_api.settings",
+        "profile_name": "default",
+        "project_name": "shared-backend-",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-myjs3gzfl"
+    }
+}
